@@ -1,0 +1,1 @@
+Seeing if I can create and write to a file at the same time using cat > file
